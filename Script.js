@@ -15,6 +15,13 @@ function createInputField(placeholder, onChange) {
 function addInputFields() {
     const commentForm = document.querySelector('#comment-form .control-group.tooltip.right');
     if (commentForm) {
+        // Create and add the heading
+        const heading = document.createElement('div');
+        heading.innerHTML = '<b>Scratch Commenter Plus by iw131</b>';
+        heading.style.marginBottom = '10px';
+        commentForm.parentNode.insertBefore(heading, commentForm);
+
+        // Create and add the input fields
         const commentIdInput = createInputField('Enter Comment ID', (event) => {
             const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
             postButton.setAttribute('data-parent-thread', event.target.value);
