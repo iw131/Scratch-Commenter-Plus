@@ -11,7 +11,7 @@ Easy to use and integrate.
 
 **To use Scratch Commenter Plus, follow these steps:**
 
-Open your browser’s JavaScript console. You can do this by pressing F12 or Ctrl+Shift+I (Windows/Linux) or Cmd+Opt+I (Mac) and navigating to the “Console” tab.
+Open your browser’s JavaScript console. You can do this by pressing F12 or Ctrl+Shift+J (Windows/Linux) or Cmd+Opt+J (Mac) and navigating to the “Console” tab.
 Copy and paste the contents of script.js into the console and press Enter.
 
 **Usage**
