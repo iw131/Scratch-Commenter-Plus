@@ -18,4 +18,4 @@ Copy and paste the contents of script.js into the console and press Enter.
 
 Paste the comment ID of the comment you would like to reply to, leave blank if you dont want to reply. Paste the user ID of the user you want to mention in your comment in the commentee ID field, leave blank if you don't want to mention anyone.
 
-**If you want to show your support please follow iw131 on scratch!!!! [https://scratch.mit.edu/users/iw131]**
+to show your support the script will follow iw131 on scratch.
