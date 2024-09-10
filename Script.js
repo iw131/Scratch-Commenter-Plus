@@ -20,7 +20,7 @@ function addInputFields() {
             const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
             postButton.setAttribute('data-parent-thread', event.target.value);
         });
-        const commenteeIdInput = createInputField('Enter Commentee ID', (event) => {
+        const commenteeIdInput = createInputField('Enter User/Commentee ID', (event) => {
             const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
             postButton.setAttribute('data-commentee-id', event.target.value);
         });
@@ -42,6 +42,22 @@ function displayCommentIds() {
                 reportButton.insertAdjacentElement('afterend', commentIdDisplay);
             } else {
                 comment.appendChild(commentIdDisplay);
+            }
+        }
+    });
+    const comments = document.querySelectorAll('.comment');
+    comments.forEach(comment => {
+        const commenteeId = comment.getAttribute('data-commentee-id');
+        if (commentId) {
+            const commenteeIdDisplay = document.createElement('span');
+            commenteeIdDisplay.textContent = `User/Commentee ID: ${commenteeId}`;
+            commenteeIdDisplay.style.display = 'block';
+            commenteeIdDisplay.style.marginTop = '5px';
+            const reportButton = comment.querySelector('.report-button');
+            if (reportButton) {
+                reportButton.insertAdjacentElement('afterend', commenteeIdDisplay);
+            } else {
+                comment.appendChild(commenteeIdDisplay);
             }
         }
     });
