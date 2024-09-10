@@ -20,7 +20,7 @@ function addInputFields() {
             const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
             postButton.setAttribute('data-parent-thread', event.target.value);
         });
-        const commenteeIdInput = createInputField('Enter User/Commentee ID', (event) => {
+        const commenteeIdInput = createInputField('Enter Commentee ID', (event) => {
             const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
             postButton.setAttribute('data-commentee-id', event.target.value);
         });
