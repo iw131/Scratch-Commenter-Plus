@@ -14,7 +14,7 @@ function addInputFields() {
     const commentForm = document.querySelector('#comment-form .control-group.tooltip.right');
     if (commentForm) {
         const heading = document.createElement('div');
-        heading.innerHTML = '<b>Scratch Commenter Plus by iw131</b>';
+        heading.innerHTML = '<b>Scratch Commenter Plus by <a href="https://scratch.mit.edu/users/iw131/">iw131</a></b>';
         heading.style.marginBottom = '10px';
         commentForm.parentNode.insertBefore(heading, commentForm);
         
