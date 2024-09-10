@@ -45,22 +45,6 @@ function displayCommentIds() {
             }
         }
     });
-    const comments = document.querySelectorAll('.comment');
-    comments.forEach(comment => {
-        const commenteeId = comment.getAttribute('data-commentee-id');
-        if (commentId) {
-            const commenteeIdDisplay = document.createElement('span');
-            commenteeIdDisplay.textContent = `User/Commentee ID: ${commenteeId}`;
-            commenteeIdDisplay.style.display = 'block';
-            commenteeIdDisplay.style.marginTop = '5px';
-            const reportButton = comment.querySelector('.report-button');
-            if (reportButton) {
-                reportButton.insertAdjacentElement('afterend', commenteeIdDisplay);
-            } else {
-                comment.appendChild(commenteeIdDisplay);
-            }
-        }
-    });
 }
 addInputFields();
 displayCommentIds();
