@@ -1,1 +1,50 @@
-(function(_0x27bd18,_0x2e8a3a){const _0x17e27c=_0x3f12,_0x3bcfd2=_0x27bd18();while(!![]){try{const _0x3ef28d=parseInt(_0x17e27c(0x120))/0x1+-parseInt(_0x17e27c(0x116))/0x2*(-parseInt(_0x17e27c(0xfe))/0x3)+-parseInt(_0x17e27c(0xfd))/0x4*(parseInt(_0x17e27c(0x11f))/0x5)+parseInt(_0x17e27c(0xee))/0x6*(-parseInt(_0x17e27c(0xfc))/0x7)+parseInt(_0x17e27c(0x115))/0x8*(-parseInt(_0x17e27c(0x101))/0x9)+parseInt(_0x17e27c(0x114))/0xa+parseInt(_0x17e27c(0xf4))/0xb*(-parseInt(_0x17e27c(0x100))/0xc);if(_0x3ef28d===_0x2e8a3a)break;else _0x3bcfd2['push'](_0x3bcfd2['shift']());}catch(_0x56043d){_0x3bcfd2['push'](_0x3bcfd2['shift']());}}}(_0x3fc3,0x4772a));function createInputField(_0x36b5e6,_0xe3fdeb){const _0x937cc1=_0x3f12,_0x3717b4=document[_0x937cc1(0x11c)](_0x937cc1(0x10d));return _0x3717b4[_0x937cc1(0x108)]=_0x937cc1(0x11b),_0x3717b4[_0x937cc1(0x11a)]=_0x36b5e6,_0x3717b4['style'][_0x937cc1(0x106)]=_0x937cc1(0x113),_0x3717b4[_0x937cc1(0x10f)][_0x937cc1(0x119)]=_0x937cc1(0xfa),_0x3717b4[_0x937cc1(0x10f)][_0x937cc1(0x103)]=_0x937cc1(0xff),_0x3717b4['style'][_0x937cc1(0x118)]=_0x937cc1(0xf5),_0x3717b4[_0x937cc1(0x104)](_0x937cc1(0xed),_0xe3fdeb),_0x3717b4;}function _0x3f12(_0xe2cdee,_0x21bc89){const _0x3fc383=_0x3fc3();return _0x3f12=function(_0x3f12a5,_0x4eec8e){_0x3f12a5=_0x3f12a5-0xeb;let _0x253785=_0x3fc383[_0x3f12a5];return _0x253785;},_0x3f12(_0xe2cdee,_0x21bc89);}function addInputFields(){const _0x3d655d=_0x3f12,_0x7c4ae6=document[_0x3d655d(0x10c)](_0x3d655d(0x10b));if(_0x7c4ae6){const _0x323e6b=document[_0x3d655d(0x11c)]('div');_0x323e6b['innerHTML']=_0x3d655d(0x112),_0x323e6b[_0x3d655d(0x10f)][_0x3d655d(0xf0)]=_0x3d655d(0x121),_0x7c4ae6[_0x3d655d(0xf3)][_0x3d655d(0xf2)](_0x323e6b,_0x7c4ae6);const _0x5557f8=createInputField(_0x3d655d(0x109),_0x1b326a=>{const _0x8529c6=_0x3d655d,_0x478257=document[_0x8529c6(0x10c)](_0x8529c6(0xf8));_0x478257[_0x8529c6(0x102)](_0x8529c6(0xf7),_0x1b326a['target'][_0x8529c6(0x117)]);}),_0x123e85=createInputField(_0x3d655d(0x110),_0x30a160=>{const _0x279cf3=_0x3d655d,_0x3fea30=document[_0x279cf3(0x10c)](_0x279cf3(0xf8));_0x3fea30[_0x279cf3(0x102)](_0x279cf3(0xfb),_0x30a160[_0x279cf3(0xf9)][_0x279cf3(0x117)]);});_0x7c4ae6[_0x3d655d(0xeb)](_0x5557f8),_0x7c4ae6[_0x3d655d(0xeb)](_0x123e85);}}function displayCommentIds(){const _0x9c1de=_0x3f12,_0xee05a4=document[_0x9c1de(0xef)](_0x9c1de(0x11d));_0xee05a4[_0x9c1de(0x10a)](_0x127877=>{const _0x180810=_0x9c1de,_0x3117e2=_0x127877['getAttribute'](_0x180810(0x111));if(_0x3117e2){const _0x49be1a=document['createElement'](_0x180810(0x11e));_0x49be1a['textContent']=_0x180810(0xec)+_0x3117e2,_0x49be1a[_0x180810(0x10f)][_0x180810(0xf1)]=_0x180810(0x105),_0x49be1a[_0x180810(0x10f)][_0x180810(0xf6)]='5px';const _0x52e6f7=_0x127877[_0x180810(0x10c)](_0x180810(0x10e));_0x52e6f7?_0x52e6f7['insertAdjacentElement'](_0x180810(0x107),_0x49be1a):_0x127877[_0x180810(0xeb)](_0x49be1a);}});}function _0x3fc3(){const _0x30eafe=['Enter\x20Commentee\x20ID','data-comment-id','<b>Scratch\x20Commenter\x20Plus\x20by\x20iw131</b>','5px','5139850mOdvFx','3848MZCpsd','22lyRXpP','value','fontSize','width','placeholder','text','createElement','.comment','span','5sEFDvr','10168QQsVCV','10px','appendChild','Comment\x20ID:\x20','change','1350ZsIjYr','querySelectorAll','marginBottom','display','insertBefore','parentNode','77bupeaf','12px','marginTop','data-parent-thread','#main-post-form\x20.button[data-control=\x22post\x22]','target','150px','data-commentee-id','7882MJfgKL','305692FMLGmF','131910yRiNFJ','20px','496596kSGmXr','1791isixSj','setAttribute','height','addEventListener','block','marginLeft','afterend','type','Enter\x20Comment\x20ID','forEach','#comment-form\x20.control-group.tooltip.right','querySelector','input','.report-button','style'];_0x3fc3=function(){return _0x30eafe;};return _0x3fc3();}addInputFields(),displayCommentIds();
+function createInputField(placeholder, onChange) {
+    const input = document.createElement('input');
+    input.type = 'text';
+    input.placeholder = placeholder;
+    input.style.marginLeft = '5px';
+    input.style.width = '150px';
+    input.style.height = '20px'; 
+    input.style.fontSize = '12px'; 
+    input.addEventListener('change', onChange);
+    return input;
+}
+function addInputFields() {
+    const commentForm = document.querySelector('#comment-form .control-group.tooltip.right');
+    if (commentForm) {
+        const heading = document.createElement('div');
+        heading.innerHTML = '<b>Scratch Commenter Plus by iw131</b>';
+        heading.style.marginBottom = '10px';
+        commentForm.parentNode.insertBefore(heading, commentForm);
+        const commentIdInput = createInputField('Enter Comment ID', (event) => {
+            const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
+            postButton.setAttribute('data-parent-thread', event.target.value);
+        });
+        const commenteeIdInput = createInputField('Enter Commentee ID', (event) => {
+            const postButton = document.querySelector('#main-post-form .button[data-control="post"]');
+            postButton.setAttribute('data-commentee-id', event.target.value);
+        });
+        commentForm.appendChild(commentIdInput);
+        commentForm.appendChild(commenteeIdInput);
+    }
+}
+function displayCommentIds() {
+    const comments = document.querySelectorAll('.comment');
+    comments.forEach(comment => {
+        const commentId = comment.getAttribute('data-comment-id');
+        if (commentId) {
+            const commentIdDisplay = document.createElement('span');
+            commentIdDisplay.textContent = `Comment ID: ${commentId}`;
+            commentIdDisplay.style.display = 'block';
+            commentIdDisplay.style.marginTop = '5px';
+            const reportButton = comment.querySelector('.report-button');
+            if (reportButton) {
+                reportButton.insertAdjacentElement('afterend', commentIdDisplay);
+            } else {
+                comment.appendChild(commentIdDisplay);
+            }
+        }
+    });
+}
+addInputFields();
+displayCommentIds();
