@@ -37,32 +37,26 @@ function displayCommentIds() {
     const comments = document.querySelectorAll('.comment');
     comments.forEach(comment => {
         const commentId = comment.getAttribute('data-comment-id');
-        if (commentId) {
-            const commentIdDisplay = document.createElement('span');
-            commentIdDisplay.textContent = `Comment ID: ${commentId}`;
-            commentIdDisplay.style.display = 'block';
-            commentIdDisplay.style.marginTop = '5px';
-            const reportButton = comment.querySelector('.report-button');
-            if (reportButton) {
-                reportButton.insertAdjacentElement('afterend', commentIdDisplay);
-            } else {
-                comment.appendChild(commentIdDisplay);
-            }
-        }
-    });
-
-    comments.forEach(comment => {
         const commenteeId = comment.getAttribute('data-commentee-id');
-        if (commenteeId) {
-            const commenteeIdDisplay = document.createElement('span');
-            commenteeIdDisplay.textContent = `User/Commentee ID: ${commenteeId}`;
-            commenteeIdDisplay.style.display = 'block';
-            commenteeIdDisplay.style.marginTop = '5px';
-            const reportButton = comment.querySelector('.report-button');
-            if (reportButton) {
-                reportButton.insertAdjacentElement('afterend', commenteeIdDisplay);
-            } else {
-                comment.appendChild(commenteeIdDisplay);
+        
+        if (commentId || commenteeId) {
+            const actionsWrap = comment.querySelector('.actions-wrap');
+            if (actionsWrap) {
+                if (commentId) {
+                    const commentIdDisplay = document.createElement('span');
+                    commentIdDisplay.textContent = `Comment ID: ${commentId}`;
+                    commentIdDisplay.style.display = 'block';
+                    commentIdDisplay.style.marginTop = '5px';
+                    actionsWrap.appendChild(commentIdDisplay);
+                }
+                
+                if (commenteeId) {
+                    const commenteeIdDisplay = document.createElement('span');
+                    commenteeIdDisplay.textContent = `User/Commentee ID: ${commenteeId}`;
+                    commenteeIdDisplay.style.display = 'block';
+                    commenteeIdDisplay.style.marginTop = '5px';
+                    actionsWrap.appendChild(commenteeIdDisplay);
+                }
             }
         }
     });
