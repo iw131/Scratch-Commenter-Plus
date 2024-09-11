@@ -1,5 +1,6 @@
 (function() {
-    function createInputField(placeholder, onChange) {
+    function createInputField(placeholder, onChange) 
+    {
         const input = document.createElement('input');
         input.type = 'text';
         input.placeholder = placeholder;
@@ -149,8 +150,3 @@
     addInputFields();
     displayCommentIds();
 })();
-
-}
-
-addInputFields();
-displayCommentIds();
