@@ -105,7 +105,7 @@
                             clearInterval(interval);
                             hideLoadingPopup();
                         }
-                    }, 1000); // 1 second delay between redirects
+                    }, 500); // 0.1 second delay between redirects
                 }
             });
             
