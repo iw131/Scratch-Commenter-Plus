@@ -138,7 +138,7 @@
                         const commenteeIdDisplay = document.createElement('span');
                         commenteeIdDisplay.textContent = `User/Commentee ID: ${commenteeId}`;
                         commenteeIdDisplay.style.display = 'block';
-                        commenteeIdDisplay.style.marginTop = '5px';
+                        commenteeIdDisplay.style.marginTop = '15px';
                         actionsWrap.appendChild(commenteeIdDisplay);
                     }
                 }
