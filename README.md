@@ -1,4 +1,4 @@
-<img src="https://im.gurl.eu.org/file/dcb6da74dacbaad0f9f31-190a9365f3e5d84f35.png" width="150" height="100">
+<img src="https://im.gurl.eu.org/file/e98f35d07486a9f5379cf-904e1733aabc9f8af7.png" width="150" height="150">
 
 **Scratch Commenter Plus** is a JavaScript tool that enhances the commenting experience on Scratch by adding additional input fields for changing the parent comment ID, the commentee ID and the amount of comments you post. It also displays the comment ID and commentee ID for each comment.
 
@@ -21,11 +21,16 @@ Copy the contents of bookmarklet.js.<br />
 Create a new bookmark and paste the code into the URL field.<br />
 **2. Use the Bookmark:** <br />
 Open the bookmark from your address bar whenever you want to use Scratch Commenter Plus.
+## **Extension**<br />
+**Download and install Extension:** <br />
+Go to releases, then download Scratch Commenter Plus zip<br />
+After that go to "chrome://extensions" or whatever url your browser uses, extract the zip, and load the unpacked folder inside of the other folder.<br />
+For this you may have to enable developer mode if you havent already, typically there's an obvious setting for it but if you need help, Google.<br />
 ## **Usage** <br />
 **Reply to a Comment:** <br />
 Paste the comment ID of the comment you would like to reply to. Leave blank if you don’t want to reply. <br />
 **Mention a User:** <br />
-Paste the user ID of the user you want to mention in your comment in the commentee ID field. Leave blank if you don’t want to mention anyone. 
+Paste the user ID of the user you want to mention in your comment in the commentee ID field. Leave blank if you don’t want to mention anyone. <br />
 **Post Multiple Times:** <br />
 Enter the number of comments you would like to post into the Amount box, then click outside of the box and wait for it to load. Note: large numbers will cause it to take a while to load or it may crash.
 
