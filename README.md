@@ -1,5 +1,5 @@
+<img src="https://im.gurl.eu.org/file/dcb6da74dacbaad0f9f31-190a9365f3e5d84f35.png" width="150" height="100">
 
-# **Scratch Commenter Plus**
 **Scratch Commenter Plus** is a JavaScript tool that enhances the commenting experience on Scratch by adding additional input fields for changing the parent comment ID, the commentee ID and the amount of comments you post. It also displays the comment ID and commentee ID for each comment.
 
 ## **Features**
