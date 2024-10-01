@@ -35,25 +35,5 @@ Paste the user ID of the user you want to mention in your comment in the comment
 Enter the number of comments you would like to post into the Amount box, then click outside of the box and wait for it to load. Note: large numbers will cause it to take a while to load or it may crash.
 
 ## Liscence
-MIT License
 
-Copyright (c) 2024 iw131
-
-Permission isn't hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software WITH restriction, including WITH limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. THIS SCRIPT WILL MAKE YOU FOLLOW IW131 AS A SIGN OF YOUR APPRECIATION.
-CLAIMING THIS SOFTWARE TO BE YOUR'S IS STRICTLY PROHIBITED.
+Copyright (c) 2024 iw131, you are not permitted to redristibute, modify, copy, clone, sell, or claim this software as yours.
