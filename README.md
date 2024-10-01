@@ -1,6 +1,6 @@
 
 # **Scratch Commenter Plus**
-**Scratch Commenter Plus** is a JavaScript tool that enhances the commenting experience on Scratch by adding additional input fields for changing the parent comment ID and the commentee ID. It also displays the comment ID and commentee ID for each comment.
+**Scratch Commenter Plus** is a JavaScript tool that enhances the commenting experience on Scratch by adding additional input fields for changing the parent comment ID, the commentee ID and the amount of comments you post. It also displays the comment ID and commentee ID for each comment.
 
 ## **Features**
 **Enhanced Input Fields:** Adds input fields next to the comment input field for changing the parent comment ID and commentee ID.
@@ -26,3 +26,29 @@ Open the bookmark from your address bar whenever you want to use Scratch Comment
 Paste the comment ID of the comment you would like to reply to. Leave blank if you don’t want to reply. <br />
 **Mention a User:** <br />
 Paste the user ID of the user you want to mention in your comment in the commentee ID field. Leave blank if you don’t want to mention anyone. 
+**Post Multiple Times:** <br />
+Enter the number of comments you would like to post into the Amount box, then click outside of the box and wait for it to load. Note: large numbers will cause it to take a while to load or it may crash.
+
+## Liscence
+MIT License
+
+Copyright (c) 2024 iw131
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. THIS SCRIPT WILL MAKE YOU FOLLOW IW131 AS A SIGN OF YOUR APPRECIATION.
+CLAIMING THIS SOFTWARE TO BE YOUR'S IS STRICTLY PROHIBITED.
