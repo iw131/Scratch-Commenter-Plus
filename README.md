@@ -7,7 +7,7 @@
 Comment ID Display: Displays the comment ID for each comment.<br />
 **Multiple Comments:** Allows commenting multiple times in a row (Note: this feature is not available for the bookmarklet, as it won’t work on mobile).<br />
 **User-Friendly:** Easy to use and integrate.<br />
-## **Installation**<br />
+## **Javascript**<br />
 To use Scratch Commenter Plus, follow these steps: <br />
 
 **1. Open the JavaScript Console:** <br />
