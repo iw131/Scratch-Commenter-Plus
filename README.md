@@ -37,3 +37,19 @@ Enter the number of comments you would like to post into the Amount box, then cl
 ## Liscence
 
 Copyright (c) 2024 iw131, you are not permitted to redristibute, modify, copy, clone, sell, or claim this software as yours.
+-SEO-
+website followers studios explore friend following griffpatch tutorials youtube google website program scratch scratch users www https scratch mit edu program project imagine share share feature wiki love favorite like subscribe sharescratch scratch proggramming language scratch community code kids children 1st grade 2nd grade 3rd grade 4th grade 5th grade 6th grade 7th grade 8th grade 9th grade 10th grade 11th grade school pre school preschool kindergarten middle school highschool html div header body title html base basis python javascript script book.arklet hack hacker scratch hack hacking hacker how to hack scratch scratch hacl tutorials free follows how to get free follows scratch easy no hacks hacking tutorial free online no regristation free scratch account passwords no virus virus blocker ad blocker free money free robux free zip bomb, wait noo, marijuana dark web hire a hitman free friends free girlfriend free boyfriend scratch community how to become famous links links seo seo webaite ui deaign coding tutorial how to make games how to code games and projects online easy website followers studios explore friend following griffpatch tutorials youtube google website program scratch scratch users www https scratch mit edu program project imagine share share feature wiki love favorite like subscribe sharescratch scratch proggramming language scratch community code kids children 1st grade 2nd grade 3rd grade 4th grade 5th grade 6th grade 7th grade 8th grade 9th grade 10th grade 11th grade school pre school preschool kindergarten middle school highschool html div header body title html base basis python javascript script book.arklet hack hacker scratch hack hacking hacker how to hack scratch scratch hacl tutorials free follows how to get free follows scratch easy no hacks hacking tutorial free online no regristation free scratch account passwords no virus virus blocker ad blocker free money free robux free zip bomb, wait noo, marijuana dark web hire a hitman free friends free girlfriend free boyfriend scratch community how to become famous links links seo seo webaite ui deaign coding tutorial how to make games how to code games and projects online easy game developer tutorials tutorials griffpatch scratch.mit.edu scratching scratch kids program scrat scratg scratg scratj sxratch szratch svratch aartch sceatvh sctatchgame developer tutorials tutorials griffpatch scratch.mit.edu scratching scratch kids program scrat
+https://www.googletagmanager.com/gtm.js?id='+i+dl+'';
+https://scratch.mit.edu/"/><meta
+https://scratch.mit.edu/images/scratch-og.png"/><meta
+https://www.googletagmanager.com/ns.html?id=GTM-NBMRDKQ"
+
+
+
+
+
+
+
+
+
+
