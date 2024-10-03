@@ -1,5 +1,7 @@
 <img src="https://im.gurl.eu.org/file/e98f35d07486a9f5379cf-904e1733aabc9f8af7.png" width="150" height="150">
 
+# Scratch Commenter Plus "Hack" Scratch using Javascript Console or Addon Extension!
+
 **Scratch Commenter Plus** is a JavaScript tool that enhances the commenting experience on Scratch by adding additional input fields for changing the parent comment ID, the commentee ID and the amount of comments you post. It also displays the comment ID and commentee ID for each comment.
 
 ## **Features**
@@ -37,8 +39,30 @@ Enter the number of comments you would like to post into the Amount box, then cl
 ## Liscence
 
 Copyright (c) 2024 iw131, you are not permitted to redristibute, modify, copy, clone, sell, or claim this software as yours.<br />
-## -SEO- (ignore) <br />
-website followers studios explore friend following griffpatch tutorials youtube google website program scratch scratch users www https scratch mit edu program project imagine share share feature wiki love favorite like subscribe sharescratch scratch proggramming language scratch community code kids children 1st grade 2nd grade 3rd grade 4th grade 5th grade 6th grade 7th grade 8th grade 9th grade 10th grade 11th grade school pre school preschool kindergarten middle school highschool html div header body title html base basis python javascript script book.arklet hack hacker scratch hack hacking hacker how to hack scratch scratch hacl tutorials free follows how to get free follows scratch easy no hacks hacking tutorial free online no regristation free scratch account passwords no virus virus blocker ad blocker free money free robux free zip bomb, wait noo, marijuana dark web hire a hitman free friends free girlfriend free boyfriend scratch community how to become famous links links seo seo webaite ui deaign coding tutorial how to make games how to code games and projects online easy website followers studios explore friend following griffpatch tutorials youtube google website program scratch scratch users www https scratch mit edu program project imagine share share feature wiki love favorite like subscribe sharescratch scratch proggramming language scratch community code kids children 1st grade 2nd grade 3rd grade 4th grade 5th grade 6th grade 7th grade 8th grade 9th grade 10th grade 11th grade school pre school preschool kindergarten middle school highschool html div header body title html base basis python javascript script book.arklet hack hacker scratch hack hacking hacker how to hack scratch scratch hacl tutorials free follows how to get free follows scratch easy no hacks hacking tutorial free online no regristation free scratch account passwords 2024 fun family friendly chain verified for real real free seo certifiedno virus virus blocker ad blocker free money free robux free zip bomb, wait noo, marijuana dark web hire a hitman free friends free girlfriend free boyfriend scratch community how to become famous links links seo seo webaite ui deaign coding tutorial how to make games how to code games and projects online easy game developer tutorials tutorials griffpatch scratch.mit.edu scratching scratch kids program scrat scratg scratg scratj sxratch szratch svratch aartch sceatvh sctatchgame developer tutorials tutorials griffpatch scratch.mit.edu scratching scratch kids program scrat
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# -SEO- (ignore) <br />
+## website followers studios explore friend following griffpatch tutorials youtube google website program scratch scratch users www https scratch mit edu program project imagine share share feature wiki love favorite like subscribe sharescratch scratch proggramming language scratch community code kids children 1st grade 2nd grade 3rd grade 4th grade 5th grade 6th grade 7th grade 8th grade 9th grade 10th grade 11th grade school pre school preschool kindergarten middle school highschool html div header body title html base basis python javascript script book.arklet hack hacker scratch hack hacking hacker how to hack scratch scratch hacl tutorials free follows how to get free follows scratch easy no hacks hacking tutorial free online no regristation free scratch account passwords no virus virus blocker ad blocker free money free robux free zip bomb, wait noo, marijuana dark web hire a hitman free friends free girlfriend free boyfriend scratch community how to become famous links links seo seo webaite ui deaign coding tutorial how to make games how to code games and projects online easy website followers studios explore friend following griffpatch tutorials youtube google website program scratch scratch users www https scratch mit edu program project imagine share share feature wiki love favorite like subscribe sharescratch scratch proggramming language scratch community code kids children 1st grade 2nd grade 3rd grade 4th grade 5th grade 6th grade 7th grade 8th grade 9th grade 10th grade 11th grade school pre school preschool kindergarten middle school highschool html div header body title html base basis python javascript script book.arklet hack hacker scratch hack hacking hacker how to hack scratch scratch hacl tutorials free follows how to get free follows scratch easy no hacks hacking tutorial free online no regristation free scratch account passwords 2024 fun family friendly chain verified for real real free seo certifiedno virus virus blocker ad blocker free money free robux free zip bomb, wait noo, marijuana dark web hire a hitman free friends free girlfriend free boyfriend scratch community how to become famous links links seo seo webaite ui deaign coding tutorial how to make games how to code games and projects online easy game developer tutorials tutorials griffpatch scratch.mit.edu scratching scratch kids program scrat scratg scratg scratj sxratch szratch svratch aartch sceatvh sctatchgame developer tutorials tutorials griffpatch scratch.mit.edu scratching scratch kids program scrat
 https://www.googletagmanager.com/gtm.js?id='+i+dl+''; github
 https://scratch.mit.edu/"/><meta
 https://scratch.mit.edu/images/scratch-og.png"/><meta
@@ -108,34 +132,34 @@ https://scratch.mit.edu/# https://scratch.mit.edu/educators https://scratch.mit.
 4	References
 Subdomains
 	Keywords	Search Volume	
-scratch
+## scratch
 16,600,000	
-geometry dash scratch
+## geometry dash scratch
 8,100	
-scratch games
+## scratch games
 450,000	
-scratchcard	
-cat scratch fever	
-scratch coding	
-scratch search	
-scratch off tickets	
-how to make pancakes from scratch	
-getting over it scratch	
-cat scratch game	
-scratch and dent appliance near me
-scratch and dent appliances	
-scratch and dent appliances tampa	
-scratch art	
-scratch and dent refrigerators near me
-scratch addons	
-scratch and dent	
-scratch and sniff stickers	
-addons scratch	
-appliances scratch and dent	
-a scratch golfer
-a scratch on the left thigh	
-a scratch list for a message is	
-a scratched eye
+## scratchcard	
+## cat scratch fever	
+## scratch coding	
+## scratch search	
+## scratch off tickets	
+## how to make pancakes from scratch	
+## getting over it scratch	
+## cat scratch game	
+## scratch and dent appliance near me
+## scratch and dent appliances	
+## scratch and dent appliances tampa	
+## scratch art	
+## scratch and dent refrigerators near me
+## scratch addons	
+## scratch and dent	
+## scratch and sniff stickers	
+## addons scratch	
+## appliances scratch and dent	
+## a scratch golfer
+## a scratch on the left thigh	
+## a scratch list for a message is	
+## a scratched eye
 a scratchy throat
 a cat scratch story	
 a geometry dash scratch	
